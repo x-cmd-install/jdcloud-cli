@@ -193,4 +193,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 19 are checked with a SAST tool'
 ---
-{"id":74722612,"author":{"login":"shijunLee","id":12538135,"node_id":"MDQ6VXNlcjEyNTM4MTM1","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOCBSWas4EdC00","tag_name":"v1.2.11","target_commitish":"master","name":"update cli and fix some bugs","draft":false,"immutable":false,"prerelease":false,"created_at":"2022-08-18T12:44:42Z","updated_at":"2022-08-18T12:45:52Z","published_at":"2022-08-18T12:45:52Z","assets":[],"body":"update cli and fix some bugs\r\nupdate jdcloud python sdk to 1.6.180"}
